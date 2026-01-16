@@ -1,0 +1,8 @@
+{
+  "name": "CampaignFlow AI",
+  "description": "Generate comprehensive email marketing campaigns with subject lines, personalized body copy, and AI-generated visuals powered by Gemini 3.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
